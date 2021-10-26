@@ -1,0 +1,4 @@
+this here is line 1.
+this here is line 2.
+this here is line 3, and only line 3.
+so, total words in this file should be 28.
